@@ -1,6 +1,9 @@
+package Login;
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import FormularioBnaco.BancoForm;
 
 public class Banco extends JFrame {
     private JPanel LoginForm;
